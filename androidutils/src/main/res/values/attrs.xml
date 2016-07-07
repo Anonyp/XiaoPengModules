@@ -4,4 +4,5 @@
         <attr name="color_border" format="color" />
         <attr name="color_background" format="color" />
     </declare-styleable>
+    <attr name="actionBarSize" />
 </resources>
