@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AliPay/app.iml" filepath="$PROJECT_DIR$/AliPay/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomRoundView/customround.iml" filepath="$PROJECT_DIR$/CustomRoundView/customround.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XiaoPengModules.iml" filepath="$PROJECT_DIR$/XiaoPengModules.iml" />
+    </modules>
+  </component>
+</project>
