@@ -20,7 +20,7 @@ import java.util.Locale;
 import java.util.Random;
 
 /**
- * 在此写用途
+ * 支付宝支付类
  *
  * @version V1.0 <描述当前版本功能>
  * @FileName: com.xiaopeng.alipaydemo.main.AliPay.java
