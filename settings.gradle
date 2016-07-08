@@ -1,1 +1,1 @@
-include ':AliPay', ':CustomRoundView'
+include ':AliPay', ':CustomRoundView', ':Androidutils'

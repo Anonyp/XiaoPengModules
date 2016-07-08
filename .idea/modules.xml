@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AliPay/app.iml" filepath="$PROJECT_DIR$/AliPay/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CustomRoundView/customround.iml" filepath="$PROJECT_DIR$/CustomRoundView/customround.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AliPay/AliPay.iml" filepath="$PROJECT_DIR$/AliPay/AliPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Androidutils/Androidutils.iml" filepath="$PROJECT_DIR$/Androidutils/Androidutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomRoundView/CustomRoundView.iml" filepath="$PROJECT_DIR$/CustomRoundView/CustomRoundView.iml" />
       <module fileurl="file://$PROJECT_DIR$/XiaoPengModules.iml" filepath="$PROJECT_DIR$/XiaoPengModules.iml" />
     </modules>
   </component>
